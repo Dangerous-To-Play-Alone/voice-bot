@@ -7,7 +7,7 @@ Voice Chat Bot
 What is it?
 ---
 
-DPAL Voice bot is an automated way to manager the empty channels in your server.
+DPAL Voice bot is an automated way to manage the empty channels in your server.
 
 DPAL Voice Bot will ensure that your server will always have an empty channel for a new group of players to join!
 
